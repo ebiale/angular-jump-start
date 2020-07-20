@@ -91,11 +91,6 @@ a.navbar-brand {
     background-color: #fafafa;
 }
 
-.navbar-inner.footer {
-    background-color: #fafafa;
-    height:50px;
-}
-
 .navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus {
     background-color: #efefef;
     color: #808080;
@@ -141,7 +136,7 @@ a.navbar-brand {
 
 .navbar-inner.footer {
     background-color: #fafafa;
-    height:50px;
+    height:60px;
 }
 
 footer {

@@ -1,0 +1,14 @@
+.order-form input[type='text'], 
+.order-form input[type='number'],
+.order-form input[type='email'],
+.order-form select {
+    width:100%;
+}
+
+.order-form .ng-invalid {
+  border-left: 5px solid #a94442;
+}
+
+.order-form .ng-valid {
+  border-left: 5px solid #42A948;
+}
